@@ -1,0 +1,9 @@
+{
+    "drinkType": "Hello.",
+    "size": "Make me a latte.",
+    "milk": "Maybe I'll get a large",
+    "extras": [
+        "What?"
+    ],
+    "name": "Or milk."
+}
