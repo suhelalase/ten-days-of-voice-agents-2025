@@ -1,0 +1,155 @@
+[
+  {
+    "id": "bread_whole_wheat",
+    "name": "Whole Wheat Bread",
+    "category": "groceries",
+    "price": 45.0,
+    "unit": "loaf",
+    "brand": "HealthyBite",
+    "tags": ["bread", "sandwich", "vegan"]
+  },
+  {
+    "id": "bread_white",
+    "name": "White Bread",
+    "category": "groceries",
+    "price": 40.0,
+    "unit": "loaf",
+    "brand": "SoftLoaf",
+    "tags": ["bread", "sandwich"]
+  },
+  {
+    "id": "eggs_12",
+    "name": "Eggs (12 pcs)",
+    "category": "groceries",
+    "price": 75.0,
+    "unit": "dozen",
+    "brand": "FarmFresh",
+    "tags": ["eggs", "protein"]
+  },
+  {
+    "id": "milk_1l",
+    "name": "Toned Milk 1L",
+    "category": "groceries",
+    "price": 60.0,
+    "unit": "1L",
+    "brand": "DailyDairy",
+    "tags": ["milk"]
+  },
+  {
+    "id": "peanut_butter",
+    "name": "Peanut Butter (Crunchy)",
+    "category": "snacks",
+    "price": 180.0,
+    "unit": "340g jar",
+    "brand": "NuttySpread",
+    "tags": ["peanut butter", "sandwich"]
+  },
+  {
+    "id": "pasta_500g",
+    "name": "Pasta 500g",
+    "category": "groceries",
+    "price": 90.0,
+    "unit": "500g",
+    "brand": "PastaBox",
+    "tags": ["pasta"]
+  },
+  {
+    "id": "pasta_sauce",
+    "name": "Tomato Pasta Sauce",
+    "category": "groceries",
+    "price": 120.0,
+    "unit": "420g jar",
+    "brand": "SaucyChef",
+    "tags": ["pasta", "sauce"]
+  },
+  {
+    "id": "chips_masala",
+    "name": "Masala Potato Chips",
+    "category": "snacks",
+    "price": 30.0,
+    "unit": "70g pack",
+    "brand": "CrunchMate",
+    "tags": ["chips", "snacks"]
+  },
+  {
+    "id": "cola_1_25l",
+    "name": "Cola 1.25L",
+    "category": "beverages",
+    "price": 70.0,
+    "unit": "1.25L bottle",
+    "brand": "FizzUp",
+    "tags": ["cold drink", "cola"]
+  },
+  {
+    "id": "margherita_pizza",
+    "name": "Margherita Pizza (Medium)",
+    "category": "prepared_food",
+    "price": 299.0,
+    "unit": "1 pizza",
+    "brand": "PizzaPal",
+    "tags": ["pizza", "veg"]
+  },
+  {
+    "id": "veg_sandwich",
+    "name": "Veg Sandwich",
+    "category": "prepared_food",
+    "price": 120.0,
+    "unit": "1 sandwich",
+    "brand": "CaféBite",
+    "tags": ["sandwich", "veg"]
+  },
+  {
+    "id": "orange_juice_1l",
+    "name": "Orange Juice 1L",
+    "category": "beverages",
+    "price": 110.0,
+    "unit": "1L carton",
+    "brand": "FreshSip",
+    "tags": ["juice", "fruit drink"]
+  },
+  {
+    "id": "banana_1kg",
+    "name": "Bananas 1kg",
+    "category": "groceries",
+    "price": 55.0,
+    "unit": "1kg",
+    "brand": "GreenFarm",
+    "tags": ["fruit"]
+  },
+  {
+    "id": "cheddar_cheese_200g",
+    "name": "Cheddar Cheese 200g",
+    "category": "groceries",
+    "price": 160.0,
+    "unit": "200g pack",
+    "brand": "CheesySlice",
+    "tags": ["cheese", "dairy"]
+  },
+  {
+    "id": "instant_noodles_masala",
+    "name": "Instant Noodles – Masala",
+    "category": "groceries",
+    "price": 15.0,
+    "unit": "70g pack",
+    "brand": "QuickBowl",
+    "tags": ["noodles", "snacks"]
+  },
+  {
+    "id": "green_tea_25",
+    "name": "Green Tea (25 bags)",
+    "category": "beverages",
+    "price": 145.0,
+    "unit": "25 tea bags",
+    "brand": "ZenLeaf",
+    "tags": ["tea", "healthy"]
+  },
+  {
+    "id": "mixed_nuts_200g",
+    "name": "Mixed Nuts 200g",
+    "category": "snacks",
+    "price": 230.0,
+    "unit": "200g pack",
+    "brand": "NutriCrate",
+    "tags": ["nuts", "protein", "snacks"]
+  }
+]
