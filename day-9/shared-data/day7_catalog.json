@@ -1,0 +1,92 @@
+[
+  {
+    "id": "tshirt_basic",
+    "name": "Basic T-Shirt",
+    "price": 14.99,
+    "description": "A soft cotton t-shirt available in multiple colors."
+  },
+  {
+    "id": "hoodie_classic",
+    "name": "Classic Hoodie",
+    "price": 34.99,
+    "description": "A warm fleece hoodie perfect for everyday wear."
+  },
+  {
+    "id": "sneaker_white",
+    "name": "White Sneakers",
+    "price": 49.99,
+    "description": "Clean white sneakers with lightweight comfort."
+  },
+  {
+    "id": "smart_watch_pro",
+    "name": "Smart Watch Pro",
+    "price": 599.99,
+    "description": "High-end smartwatch with health tracking, GPS, and cellular connectivity."
+  },
+  {
+    "id": "luxury_leather_jacket",
+    "name": "Luxury Leather Jacket",
+    "price": 799.99,
+    "description": "Premium leather jacket with refined craftsmanship."
+  },
+  {
+    "id": "designer_handbag",
+    "name": "Designer Handbag",
+    "price": 1200.00,
+    "description": "Exclusive designer handbag made from genuine leather."
+  },
+  {
+    "id": "premium_laptop",
+    "name": "Premium Laptop",
+    "price": 1499.99,
+    "description": "High-performance laptop with powerful CPU, graphics, and display."
+  },
+  {
+    "id": "4k_tv_smart",
+    "name": "4K Smart TV",
+    "price": 999.99,
+    "description": "Ultra HD 4K smart TV with streaming and voice control."
+  },
+  {
+    "id": "gaming_console_x",
+    "name": "Gaming Console X",
+    "price": 699.99,
+    "description": "Next-gen gaming console with 4K resolution and fast loading times."
+  },
+  {
+    "id": "high_end_camera",
+    "name": "High-End DSLR Camera",
+    "price": 1899.99,
+    "description": "Professional DSLR camera with interchangeable lenses and 4K video recording."
+  },
+  {
+    "id": "luxury_watch_gold",
+    "name": "Luxury Gold Watch",
+    "price": 5500.00,
+    "description": "Premium gold watch with Swiss movement."
+  },
+  {
+    "id": "electric_bike",
+    "name": "Electric Bike",
+    "price": 2499.99,
+    "description": "Modern electric bike with long-lasting battery and lightweight frame."
+  },
+  {
+    "id": "premium_headphones",
+    "name": "Premium Noise-Canceling Headphones",
+    "price": 599.99,
+    "description": "Top-tier headphones with active noise cancellation and studio-quality sound."
+  },
+  {
+    "id": "luxury_shoes",
+    "name": "Luxury Designer Shoes",
+    "price": 650.00,
+    "description": "High-quality designer shoes crafted from premium leather."
+  },
+  {
+    "id": "gaming_pc_highend",
+    "name": "High-End Gaming PC",
+    "price": 2999.99,
+    "description": "Custom-built gaming PC with advanced GPU, CPU, and liquid cooling."
+  }
+]
